@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boopathijayagopal
-- 👀 I’m interested in Java, Springboot, Microservice.
-- 🌱 I’m currently learning nanoservice, docker and Blockchain.
+- 👀 I’m interested in Java, Springboot, Microservice, Nanoservice/Serverless, Devops.
+- 🌱 I’m currently learning Blockchain & AI.
 - 💞️ I’m looking to collaborate on Microservices, Blockchain and chaincode.
 - 📫 reach me on boopathijayagopal@gmail.com
 
