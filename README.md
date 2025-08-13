@@ -1,5 +1,3 @@
-## Hi there! 👋
-
 I'm **Boopathi Jayagopal**, a passionate developer currently working at **Tata Consultancy Services** in **London**. I love exploring new technologies and building innovative solutions. Let's connect and collaborate!
 
 ## About Me
@@ -8,7 +6,7 @@ I'm a software engineer with a focus on developing scalable applications. I have
 
 ## Skills & Technologies
 
-java,js,githubactions,docker,git,react,nodejs,postgres,mysql,aws,spring,github,gitlab,terraform,angular,postman,dynamodb,gradle,maven,py,go,bash
+[![My Skills](https://skillicons.dev/icons?i=java,js,githubactions,docker,git,react,nodejs,postgres,mysql,aws,spring,github,gitlab,terraform,angular,postman,dynamodb,gradle,maven,py,go,bash&perline=8)](https://skillicons.dev)
 
 ## Certifications
 
@@ -21,19 +19,19 @@ java,js,githubactions,docker,git,react,nodejs,postgres,mysql,aws,spring,github,g
 
 ## Top Projects
 
-- [RAG-Anything](https://github.com/boopathijayagopal/RAG-Anything): "RAG-Anything: All-in-One RAG System" | Stars: 0 | Language: N/A 
-- [wrkflw](https://github.com/boopathijayagopal/wrkflw): Run, validate and execute GitHub Actions locally. | Stars: 0 | Language: N/A
-- [bluebus-payment-service](https://github.com/boopathijayagopal/bluebus-payment-service): A service for processing payments. | Stars: 0 | Language: Java
-- [bluebus-admin-service](https://github.com/boopathijayagopal/bluebus-admin-service): Admin service for managing bluebus operations. | Stars: 0 | Language: Java
-- [bluebus-auth-service](https://github.com/boopathijayagopal/bluebus-auth-service): Authentication service for bluebus applications. | Stars: 0 | Language: Java
+[![RAG-Anything](https://github-readme-stats.vercel.app/api/pin/?username=boopathijayagopal&repo=RAG-Anything&theme=dark)](https://github.com/boopathijayagopal/RAG-Anything)
+[![wrkflw](https://github-readme-stats.vercel.app/api/pin/?username=boopathijayagopal&repo=wrkflw&theme=dark)](https://github.com/boopathijayagopal/wrkflw)
+[![bluebus-payment-service](https://github-readme-stats.vercel.app/api/pin/?username=boopathijayagopal&repo=bluebus-payment-service&theme=dark)](https://github.com/boopathijayagopal/bluebus-payment-service)
+[![bluebus-admin-service](https://github-readme-stats.vercel.app/api/pin/?username=boopathijayagopal&repo=bluebus-admin-service&theme=dark)](https://github.com/boopathijayagopal/bluebus-admin-service)
+[![bluebus-auth-service](https://github-readme-stats.vercel.app/api/pin/?username=boopathijayagopal&repo=bluebus-auth-service&theme=dark)](https://github.com/boopathijayagopal/bluebus-auth-service)
 
 ## GitHub Stats
-
 🔹 **Public Repositories**: 40 
 🔹 **Followers**: 0 
 🔹 **Following**: 1 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boopathijayagopal&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boopathijayagopal&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
@@ -45,4 +43,4 @@ java,js,githubactions,docker,git,react,nodejs,postgres,mysql,aws,spring,github,g
 
 ## Connect with Me
 
-{"twitter":"https://twitter.com/Boopathijayagop","linkedin":"https://www.linkedin.com/in/boopathijayagopal/","reddit":"https://www.reddit.com/user/bojayago/"}
+<a href="https://twitter.com/Boopathijayagop" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.linkedin.com/in/boopathijayagopal/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://www.reddit.com/user/bojayago/" target="_blank" rel="noopener noreferrer"><Icon /> Reddit</a>
