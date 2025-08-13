@@ -1,3 +1,5 @@
+## Hi there! 👋
+
 I'm **Boopathi Jayagopal**, a passionate developer currently working at **Tata Consultancy Services** in **London**. I love exploring new technologies and building innovative solutions. Let's connect and collaborate!
 
 ## About Me
